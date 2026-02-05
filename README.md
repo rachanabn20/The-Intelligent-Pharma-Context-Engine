@@ -44,6 +44,9 @@ If verification confidence does not meet the minimum threshold, the system outpu
 ## Datasets
 
 ### FDA Drug Labels
+
+
+
 https://open.fda.gov/apis/drug/label/
 https://huggingface.co/datasets/gwenxin/pills_inside_bottles
 https://universe.roboflow.com/project-ko6pf/medicine-bottle
